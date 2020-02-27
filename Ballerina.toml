@@ -1,0 +1,7 @@
+[project]
+org-name= "nuwanbando"
+version= "0.1.0"
+
+[dependencies]
+"wso2/twilio" = {path= "/Users/nuwanbando/dev/trunk/module-twilio/target/balo/twilio-2019r3-any-0.8.32.balo"}
+#twillio connector is custom built from Miyuru's repo - https://github.com/miyurud/module-twilio
